@@ -1,0 +1,25 @@
+.container {
+
+    padding: 10px;
+    margin-bottom: 300px;
+ }
+.row {
+
+    border: 5px solid purple;
+    height: 100px;
+    padding: 10px;
+    margin: 0;
+}
+
+#impar {
+
+    background-color: pink;
+    border: 5px solid black;
+}
+
+#par {
+    
+    background-color: blueviolet;
+    border: 5px solid black;
+
+}
