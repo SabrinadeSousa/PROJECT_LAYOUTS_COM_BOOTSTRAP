@@ -1,0 +1,28 @@
+.container {
+    padding: 10px;
+    margin-bottom: 100px;
+}
+.row {
+
+    border: 5px solid black;
+    text-align: center;
+    height: 100px;
+    padding: 10px;
+    margin: 0;
+}
+
+.bi.bi-android2 {
+    font-size: 15px;
+    color: gray;
+    margin: 10px;
+}
+.bi.bi-apple {
+    font-size: 25px;
+    color: greenyellow;
+    margin: 10px;
+}
+.bi.bi-microsoft {
+    font-size: 30px;
+    color: pink;
+    margin: 10px;
+}
